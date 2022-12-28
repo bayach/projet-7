@@ -12,15 +12,18 @@ Backend config :
         TOKEN_SECRET=990bf68e6adf1be5f1671bba3bec692056922454 clé secrète aléatoire
 
 Frontend config :
-1-remplcer le dossier frontend actuel vide par ce dossier présent dans github:
-https://github.com/bayach/frontend.git
-2-Créez un fichier .env dans le dossier frontend :
-REACT_APP_API_URL=http://localhost:5000/ l'url de votre serveur
+
+    1-remplcer le dossier frontend actuel vide par ce dossier présent dans github:
+        https://github.com/bayach/frontend.git
+    2-Créez un fichier .env dans le dossier frontend :
+        REACT_APP_API_URL=http://localhost:5000/ l'url de votre serveur
 
 démarrage front et back
-1-ouvrir deux nouveau terminal de dialogue et taper ce qui suit :
-pour démarrer le back taper dans le premier terminal : cd backend + npm install + npm start
-pour démarrer le back taper dans le deuxieme terminal : cd frontend + npm install + npm start
+
+    1-ouvrir deux nouveau terminal de dialogue et taper ce qui suit :
+        pour démarrer le back taper dans le premier terminal : cd backend + npm install + npm start
+        pour démarrer le back taper dans le deuxieme terminal : cd frontend + npm install + npm start
 
 base de donnée
-importer les fichiers users.json et posts.json dans votre cluster
+
+    importer les fichiers users.json et posts.json dans votre cluster
