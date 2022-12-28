@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "63ac2b653726e0483869b94e"
+  },
+  "likers": [
+    "63a6217ef84cef32f02603ee"
+  ],
+  "posterId": "63a6217ef84cef32f02603ee",
+  "message": "Bienvenu dans notre réseau social groupomania",
+  "picture": "http://localhost:5000/pictures/undefined",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672227685178"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672227690038"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2bc03726e0483869b960"
+  },
+  "likers": [],
+  "posterId": "63a2f4489e4cb025a846f10c",
+  "message": "j'aime l’équipe de FRANCE",
+  "picture": "http://localhost:5000/pictures/images2.jpg1672227776477.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672227776530"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672227776530"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2ce43726e0483869b971"
+  },
+  "likers": [],
+  "posterId": "63a6c35a3efbcd2130085feb",
+  "message": "Cristiano Ronaldo est mon ancien coéquipier",
+  "picture": "http://localhost:5000/pictures/images.jpg1672228068469.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672228068473"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672228068473"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2e283726e0483869b97c"
+  },
+  "likers": [
+    "63a6c35a3efbcd2130085feb",
+    "63a6e3362943b83df4bb9797"
+  ],
+  "posterId": "63a6c35a3efbcd2130085feb",
+  "message": "le football est magnifique",
+  "picture": "http://localhost:5000/pictures/index.jpg1672228392886.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672228392889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672228824805"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac2fd03726e0483869b993"
+  },
+  "likers": [
+    "63a6e3362943b83df4bb9797"
+  ],
+  "posterId": "63a6e3362943b83df4bb9797",
+  "message": "le Brésil est élimené",
+  "picture": "http://localhost:5000/pictures/jinrsnnifcqz2rif8qux.jpg1672228816969.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672228816982"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672228822397"
+    }
+  },
+  "__v": 0
+}]

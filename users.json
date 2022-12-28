@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63a2f4489e4cb025a846f10c"
+  },
+  "email": "test37@gmail.com",
+  "password": "$2b$10$zj.3YLU5UM1yNiP9NpxJUOOFjhQhnk03AA8bDqLnz4VhkxCaCbpOK",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671623752267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672146698478"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2f4bd9e4cb025a846f10e"
+  },
+  "email": "s.bayach37@hotmail.fr",
+  "password": "$2b$10$2QC6hHQ8TCP/v7m9YDNGSeoe040tEbo4sSUnN3UFjwyaikQPVvCYW",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671623869510"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672152195998"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6217ef84cef32f02603ee"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2b$10$Hgn5dKTB60H2iFyMNk3rXeu4EOpu2ohSk2onVK35dVxDCWLlkwAby",
+  "role": "ADMIN",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671831934485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672227690122"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6c35a3efbcd2130085feb"
+  },
+  "email": "benzema@gmail.com",
+  "password": "$2b$10$MLiSf1aITOBmT8Dv6/hpSu4c/apiLa3NtSJ6n93Jx0cQ9Yf7o3BXy",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671873370321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672228396196"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6e3362943b83df4bb9797"
+  },
+  "email": "kylian.mbappe@gmail.com",
+  "password": "$2b$10$TH716uTNDVCUlwWWhr3dju1I4bSfJ3uXRpodXHryprfZRPLVfRr4i",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671881526037"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672228824898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab94869d181527fc4dc47e"
+  },
+  "email": "s.bayach@hotmail.fr",
+  "password": "$2b$10$ugDQpjkoD/LlEm4X.1ccNebx6sSILut5dEs9Ue5MGZbaNS14BNYI2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672189062322"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672189062322"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63aba4d03726e0483869b936"
+  },
+  "email": "ssss@gmail.com",
+  "password": "$2b$10$IiY9lF8lKHFe6tUuqmq2rOU5IZghMMntgqmQsaep532J3nGQXURXa",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672193232182"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672193232182"
+    }
+  },
+  "__v": 0
+}]
