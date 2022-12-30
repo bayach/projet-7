@@ -2,12 +2,12 @@
 
 Backend config :
 
-    1-Mettez vos informations de cluster dans /config/db.js
-    2-Créez le fichier .env dans /config/ dans les données suivantes
+    1-Mettez vos informations de cluster MongoDB dans /config/db.js
+    2-Créez le fichier .env dans /config/ mettez les données suivantes
         PORT=5000 votre port localhost
         CLIENT_URL=http://localhost:3000 votre URL client
         DB_USER= votre identifient
-        DB_NAME=@xxxxxxxcluster.2wfh3.mongodb.net   //remplacer les x par le nom de votre cluster
+        DB_NAME=@xxxxxxxcluster.2wfh3.mongodb.net   //remplacer par le nom de votre cluster
         DB_PASSWORD= votre mot de passe
         TOKEN_SECRET=990bf68e6adf1be5f1671bba3bec692056922454 clé secrète aléatoire
 
